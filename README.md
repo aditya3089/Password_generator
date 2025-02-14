@@ -28,4 +28,4 @@ To clone this repository, follow these steps:
 1. Open your terminal/command prompt.
 2. Use the following command to clone the repository:
    ```bash
-   git clone https://github.com/yourusername/genpass-gilt.git
+  https://github.com/aditya3089/Password_generator/tree/master
