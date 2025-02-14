@@ -4,7 +4,7 @@ This is a simple and secure password generator application that allows users to 
 
 ## Live Demo
 
-You can try the password generator app live here: [Password Generator Demo](https://password-generator-six-topaz-18.vercel.app/)
+You can try the password generator app live here: [GenPass](https://genpass-gilt.vercel.app/)
 
 ## Features
 
